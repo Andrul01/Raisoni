@@ -1,0 +1,101 @@
+body{
+    background-color:orange;
+    margin-left: 10px ;
+    margin-right: 10px ;
+}
+h1{
+    color:orangered;
+    border: 2px solid ;
+    text-align: left;
+    display: inline;
+    padding: 4px 4px 4px ;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    text-align: center;
+    color: orangered;
+}
+/*......neviagtion css...... */
+.nav{
+    background-image: url(img.jpg);
+    border: 1px solid rgb(248, 244, 244);
+    height: 800px;
+    background-size: cover;
+    padding: 20px 20px;
+}
+ul{
+    padding: 8px;
+    text-align: right;
+}
+li{
+    color: aliceblue;
+    display: inline;
+    margin-left: 2px;
+    margin-right: 21px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#i1{
+    color: orangered;
+    border: 2px solid  white;
+    border-radius: 5px ;
+    background: transparent;
+    text-align: center;
+    width: 200px;
+}
+
+#i2,textarea{
+    border-radius: 5px;
+    background:transparent;
+}
+button{
+    color:white;
+    background-color: orangered;
+    font-size: 15px;
+    border-radius: 4px;
+}
+/*......links hover....*/
+a{
+    color: rgb(241, 246, 248);
+    text-decoration:none ;
+}
+a:hover{
+    color: red;
+}
+#a2:hover{
+    color: black;
+}
+/*.......form css......*/
+.container{
+    padding: 5px 5px 5px 5px ;
+    color: rgb(12, 4, 1);
+}
+.container1{
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+}
+/* .....login form css.....*/
+.login{
+    padding: 10px 10px 10px 10px;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 50px;
+}
+/* .........footer css......*/
+footer{
+    background-color: aliceblue;
+}
+img{
+    width: 20px;    
+}
+.links{
+    text-align: center;
+    padding: 5px 5px 5px 5px ;
+}
+.admin{
+    text-align: center;
+    color: aliceblue;
+}
+
+
