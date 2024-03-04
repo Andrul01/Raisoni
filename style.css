@@ -18,7 +18,7 @@ h2{
 }
 /*......neviagtion css...... */
 .nav{
-    background-image: url(img.jpg);
+    background-image: url(./images/img.jpg);
     border: 1px solid rgb(248, 244, 244);
     height: 800px;
     background-size: cover;
