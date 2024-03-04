@@ -87,8 +87,8 @@ a:hover{
 footer{
     background-color: aliceblue;
 }
-img{
-    width: 20px;    
+#icon{
+    width: 46px;    
 }
 .links{
     text-align: center;
@@ -98,12 +98,16 @@ img{
     text-align: center;
     color: aliceblue;
 }
+
+
 /* card css */
+
+
 @import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Protest+Riot&display=swap');
-
 .card{
+    border: 2px solid;
     background-color:white;
     width:350px;
     border-radius: 20px ;
@@ -115,7 +119,6 @@ img{
 }
 .capsule{
     padding: 10px 110px;
-
 }
 .capsule span{
     border: 2px solid;
@@ -132,16 +135,15 @@ font-family: 'Black Ops One', system-ui;
     font-size: 22px;
     font-family: 'Protest Riot', sans-serif;
 }
-.button{
-text-align: center;
+.button1{
+    text-align: center;
 }
-.button button{
+.button1 button{
     padding: 3px;
     border-radius: 8px;
-    color: rgb(11, 12, 12);
-    background-color: aqua;
+    color: rgb(243, 248, 248);
+    background-color: orangered;
     font-size: 20px;
     margin: 3px;
-    font-weight: bold;
 }
 
