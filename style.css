@@ -24,25 +24,26 @@ h2{
     background-size: cover;
     padding: 20px 20px;
 }
-ul{
+ul{ 
     padding: 8px;
-    text-align: right;
+    text-align: left;
 }
 li{
     color: aliceblue;
     display: inline;
     margin-left: 2px;
-    margin-right: 20px;
+    margin-right: 15px;
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #i1{
     color: orangered;
-    border: 2px solid  white;
+    border: 2px solid white ;
     border-radius: 5px ;
     background: transparent;
     text-align: center;
     width: 200px;
+    float: right;
 }
 
 #i2,textarea{
