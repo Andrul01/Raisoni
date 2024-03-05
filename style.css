@@ -83,6 +83,15 @@ a:hover{
     text-align: center;
     margin-top: 50px;
 }
+
+.f3{
+    border: 2px solid;
+    display: inline;
+    margin: 5px 5px 5px 5px ;
+    padding: 5px 5px 5px 5px ;
+}
+
+
 /* .........footer css......*/
 footer{
     background-color: aliceblue;
